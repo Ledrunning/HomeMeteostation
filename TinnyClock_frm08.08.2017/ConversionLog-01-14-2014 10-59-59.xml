@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<?xml-stylesheet type='text/xsl' href='AVRStudioConversionLog.xslt'?>
+<ConversionLog BrandName="Atmel Studio 6.1 Project ConversionLog">
+  <Project name="1-wire" id="1-wire" status="Failure">
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Source Project Path: D:\__Projects_FULL\__My lessons\1-wire\MCU\1-wire.aps</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Studio5 Project Path: D:\__Projects_FULL\__My lessons\1-wire\MCU\1-wire.avrgccproj</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Studio5 Solution Path: D:\__Projects_FULL\__My lessons\1-wire\MCU\1-wire.atsln</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing General settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing Project files information from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Skipped reading Build Dependency settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing Build Dependency settings from the source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing ProjectLevel Toolchain settings from source project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing Toolchain settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing external makefile settings [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing File level Toolchain settings from Source Project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Warning</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Skipped reading Pre/Post build event settings from source project. It is either invalid or not provided.</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Processing Pre/Post Build event settings from source project [Configuration default]</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Create Atmel Studio 6.1 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Completed : Create Atmel Studio 6.1 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:56</DateTime>
+      <Message>Started : Updating Atmel Studio 6.1 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Completed : Updating Atmel Studio 6.1 GeneralSettings</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Started : Updating Atmel Studio 6.1 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Completed : Updating Atmel Studio 6.1 FileInformation</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Started : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Completed : Copying Files</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:57</DateTime>
+      <Message>Started : Saving Atmel Studio 6.1 Solution</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:58</DateTime>
+      <Message>Completed : Saving Atmel Studio 6.1 Solution</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:58</DateTime>
+      <Message>Started : Updating Configurations In Atmel Studio 6.1 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:59</DateTime>
+      <Message>Completed : Updating Configurations In Atmel Studio 6.1 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:59</DateTime>
+      <Message>Started : Updating Build Dependencies in Atmel Studio 6.1 Solution for the project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:59</DateTime>
+      <Message>Completed : Updating Build Dependencies in Atmel Studio 6.1 Solution for the project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Info</Type>
+      <DateTime>14.01.2014 10:59:59</DateTime>
+      <Message>Started : Updating ProjectLevelToolchainSettings In Atmel Studio 6.1 Project</Message>
+      <Exception>
+      </Exception>
+    </LogEntry>
+    <LogEntry>
+      <Type>Fatal</Type>
+      <DateTime>14.01.2014 10:59:59</DateTime>
+      <Message>Conversion Failed:Project Import Failed : The path is not of a legal form. [Activity : Updating ProjectLevelToolchainSettings In Atmel Studio 6.1 Project]</Message>
+      <Exception>System.Exception: Project Import Failed : The path is not of a legal form. [Activity : Updating ProjectLevelToolchainSettings In Atmel Studio 6.1 Project] ---&gt; System.ArgumentException: The path is not of a legal form.
+   at System.IO.Path.NormalizePath(String path, Boolean fullCheck, Int32 maxPathLength)
+   at System.IO.Path.GetDirectoryName(String path)
+   at Atmel.VsIde.AvrStudio.Project.Gcc.AVRGccConversionTarget.UpdateProjectLevelToolchainSettings(AvrStudio5ProjectLevelToolchainSettings settings)
+   at ProjectImporter.Core.Framework.Activities.AVRStudio5ProjectCreatorActivities.UpdateProjectLevelToolchainSettings()
+   at ProjectImporter.Core.Framework.WorkflowBase.RunConfigurationIndependentActions()
+   --- End of inner exception stack trace ---
+   at ProjectImporter.Core.Framework.WorkflowBase.RunConfigurationIndependentActions()
+   at ProjectImporter.Core.Framework.WorkflowBase.Execute()
+   at ProjectImporter.Core.Framework.ProjectConversionEngine.CreateTargetProject()
+   at ProjectImporter.Core.Framework.ProjectConversionEngine.Run()</Exception>
+    </LogEntry>
+  </Project>
+</ConversionLog>
